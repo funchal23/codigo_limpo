@@ -1,2 +1,2 @@
-# codigo_limpo
-Repositório para colocar resumo dos capítulos e códigos exemplos presentes no livro 
+# CODIGO LIMPO - AUTOR: ROBERT C. MARTIN
+Repositório para colocar resumos dos capítulos e códigos exemplos presentes no livro. 
